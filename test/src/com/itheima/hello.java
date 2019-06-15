@@ -7,5 +7,6 @@ public class hello {
         System.out.println(1000/10);
         System.out.println("5456");
         System.out.println(1+1);
+        System.out.println("world");
     }
 }
