@@ -5,5 +5,6 @@ public class hello {
         System.out.println("hello,world");
         System.out.println("jkl");
         System.out.println(1000/10);
+        System.out.println("5456");
     }
 }
